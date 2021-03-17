@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1742759-ede4-4698-af1e-375f1290451f" name="Default Changelist" comment="" />
+    <list default="true" id="e1742759-ede4-4698-af1e-375f1290451f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Feature/Feature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Feature/FeatureElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Footer/FooterElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Hero/HeroElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Hero/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Navbar/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Navbar/NavbarElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Prodacts/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Prodacts/ProdactsElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Prodacts/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Sidebar/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Componenets/Sidebar/SidebarElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GlobalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/roll-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/roll_sushi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sushi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sushi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sushi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sushi4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sushibg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ojUqHe3vGVCTIeXuhsQ7DwFhzs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +60,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/web/studyWeb2020November/test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\landing\src\images" />
+      <recent name="C:\Users\User\WebstormProjects\landing\src\Componenets\Sidebar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,8 +101,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613799682548</updated>
-      <workItem from="1613799684390" duration="290000" />
+      <workItem from="1613799684390" duration="8517000" />
+      <workItem from="1613808821334" duration="20527000" />
+      <workItem from="1613894182432" duration="1583000" />
+      <workItem from="1613965464956" duration="16195000" />
+      <workItem from="1613995852556" duration="2586000" />
+      <workItem from="1614073726676" duration="2280000" />
+      <workItem from="1614138376604" duration="3999000" />
+      <workItem from="1614227571229" duration="2704000" />
+      <workItem from="1614261911561" duration="619000" />
+      <workItem from="1615896969303" duration="2081000" />
+      <workItem from="1615950085679" duration="5788000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613802811760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="864" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613802811760" />
+    <state x="914" y="174" key="FileChooserDialogImpl" timestamp="1615955799362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="914" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615955799362" />
+    <state x="616" y="254" key="save.file.as.template.dialog" timestamp="1615899412596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="254" key="save.file.as.template.dialog/0.0.1536.824@0.0.1536.824" timestamp="1615899412596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Componenets/Prodacts/Data.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
